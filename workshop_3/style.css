@@ -1,0 +1,132 @@
+#nummer{
+    float:left;
+    width:140px;
+    height:340px;
+    border:2px solid #2F387B;
+    background-color: #2F387B;
+}
+#spoor{
+    width:106px;
+    height:106px;
+    margin-top:30px;
+    margin-left:10px;
+    background-color: white;
+
+}
+#idk{
+    width:25px;
+    height:25px;
+    background-color: #2F387B;
+    margin:0px;
+    padding:0px;
+    float:left;
+}
+
+#border{
+    float:left;
+    height:340px;
+    width:600px ;
+    border:2px solid #1D2570;
+    background-color: #1D2570;
+}
+#information{
+    height:295px;
+    width:500px;
+    border:2px solid #1D2570;
+    margin:auto;
+    margin-top:20px;
+    background-color: white;
+}
+#time{
+    height:50px;
+    width:190px;
+    float: left;
+
+}
+
+#time h4{
+    font-family: arial;
+    font-size:40px;
+    margin-top:0;
+    color: darkblue;
+}
+
+#treinsoort{
+    height:50px;
+    width:300px;
+    margin-top: 0;
+    float: right;
+}
+#ns{
+    width:100px;
+    float:right;
+    margin-top: 5px;;
+}
+#treinsoort h3{
+    font-family: arial;
+    font-size:40px;
+    margin-top:0;
+    color: darkblue;
+    float: left;
+}
+#klokblok{
+    float:left;
+    width:245px;
+    height:340px;
+    border:2px solid black;
+}
+
+#spoor p{
+    float:top;
+    font-size:15px;
+    font-family: arial;
+}
+
+#spoor h3{
+    font-family: arial;
+    font-size: 60px;
+    margin:0 auto;
+}
+#plaatsen{
+    width:500px;
+    height:175px;
+}
+#plaatsen h3{
+    font-family: arial;
+    font-size: 40px;
+    color:darkblue;
+}
+#plaatsen h5{
+    margin-top: -30px;
+    font-family: arial;
+    font-size: 25px;
+    color:darkblue;
+}
+#leeuwarden{
+    height:35px;
+    background-color: #1D2570;
+    margin-top: -15px;
+    margin-bottom:-15px;
+    margin-left: 1px;    
+
+
+}
+#leeuwarden h3{
+    font-family: arial;
+    color:white;
+}
+#deventer{
+    height:35px;
+    background-color: #1D2570;
+    margin-left: 1px;    
+}
+#deventer h3{
+    font-family: arial;
+    color:white;
+}
+#klokblok img{
+    margin:20px;
+    width:200px;
+    border:3px solid lightgrey;
+    border-radius:100%;
+}

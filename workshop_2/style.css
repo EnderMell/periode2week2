@@ -1,0 +1,23 @@
+*{
+    background: #F3C98B;
+    margin:0px;
+}
+
+h1{
+    background-color: #C46D5E;
+    height:100px;
+    width:100%;
+    text-align: center;
+    color:white;
+}
+
+#top img{
+    height:500px;
+    border-radius: 20%;
+    margin:20px;
+    float:right;
+}
+
+#description p{
+    font-size:100px;
+}
