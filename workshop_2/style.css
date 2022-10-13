@@ -1,6 +1,5 @@
-*{
-    background: #F3C98B;
-    margin:0px;
+body{
+    background-color: #F3C98B;
 }
 
 h1{
@@ -20,4 +19,30 @@ h1{
 
 #description p{
     font-size:100px;
+}
+
+#blok{
+    width:400px;
+    height:180px;
+    background-color: #C46D5E;
+    border-radius:20%;
+   float:left;
+}
+
+.recipe_details{
+  text-align: center;
+  color:white;
+  font-size:20px ;
+  float:left;
+  margin-top: -10;
+  margin-left:100px;
+}
+
+.ingredients{
+    float:left;
+    text-align: center;
+}
+
+.instructions{
+    clear:both;
 }
