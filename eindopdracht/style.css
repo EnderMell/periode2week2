@@ -1,0 +1,57 @@
+body{
+    margin:0px;
+    background-color:#068225
+}
+
+#playbord{
+    margin:0 auto;
+    height:840px;
+    width:600px;
+    background-color: #03b430;
+}
+
+#klaver{
+    height:210px;
+    width:150px;
+    background-color: white;
+    border-radius:10%;
+}
+
+#harte{
+    height:210px;
+    width:150px;
+    background-color: white;
+    border-radius:10%;
+    margin-left:150px;
+
+}
+
+#schoppen{
+    height:210px;
+    width:150px;
+    background-color: white;
+    border-radius:10%;
+    margin-right:150px;
+    float:right;
+    clear:both;
+
+}
+#schoppen{
+    margin-right:150px;
+    float:right;
+    clear:both;
+
+}
+
+#ruiten{
+    height:210px;
+    width:150px;
+    background-color: white;
+    border-radius:10%;
+    float:right;
+    clear:both;
+}
+#ruiten img{
+    float:right;
+    clear:both;
+}
